@@ -1,10 +1,15 @@
-# NETFLIX-MOVIES-AND-TV-SHOWS-CLUSTERING.
+# NETFLIX-MOVIES-AND-TV-SHOWS-CLUSTERING
 
+
+##Introduction
 This project aims to cluster the video content available on Netflix based on the company’s site
 data. Apart from aiding in the development of an efficient recommendation system, clustering
 the video content would also provide information about the type of content the company is
 interested in listing on its site. Thus giving an insight to content creators and filmmakers on
 the type of video content in demand.
+
+
+#Notes and Observations
 The important observations identified during EDA were:
 1. Most movies streaming on the platform were released after 2010. A large portion of the
 TV Shows streaming on the platform was released after 2015. The year 2017 had the
@@ -39,6 +44,8 @@ this, it also entertained the possibility of a video exhibiting multiple themes 
 extents by expressing the probability a document belongs to a given topic. The highest
 coherence score was achieved by modelling nine topics.
 
+
+##Results
 The performance of three unsupervised machine learning algorithms, namely DBSCAN,
 K-means and Hierarchical Clustering was evaluated and compared to cluster Netflix movies
 and TV shows.
