@@ -48,6 +48,21 @@ using Latent Dirichlet Allocation.
 extents by expressing the probability a document belongs to a given topic. 
 * The highest coherence score was achieved by modelling nine topics.
 
+##  📖 Evaluation Metrics 
+
+* Silhouette Score: It displays a measure of how close each point in a cluster is to points in the neighbouring
+clusters.
+
+* Calinski-Harabasz Index: Defined as the ratio between the within-cluster dispersion and the between-cluster dispersion. The higher the index, the better the performance.
+
+* Davies-Bouldin Index: Defined as the average similarity measure of each cluster with
+its own cluster. The similarity is the ratio of within-cluster distances to between-cluster
+distances. Closer to zero, the better.
+
+## 📖 ML Models Trained and Evaluated
+* DBSCAN
+* K-Means
+* Hierarchical
 
 ## 📖 Results
 
