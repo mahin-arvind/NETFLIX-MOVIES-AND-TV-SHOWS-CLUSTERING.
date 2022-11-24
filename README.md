@@ -80,7 +80,7 @@ potentially providing an intuition to content creators about the type of content
 The given IPython Notebook can be either downloaded to be run locally on Jupyter Notebook or on Google Colab via browser.
 
 ## 📜 Credits
-Thanks to Almabetter
+Verified by Almabetter
 
 ## ☎ Contact
 
