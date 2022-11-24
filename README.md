@@ -76,11 +76,23 @@ a silhouette score of 0.47 with K-mean and Hierarchical Clustering Algorithms.
 * This labelled content can be further studied and explored to determine what type of content is on-demand,
 potentially providing an intuition to content creators about the type of content Netflix is interested in listing on its catalogue.
 
+## 📖 References
+1. DBSCAN Clustering Algorithm in Machine Learning | KDNuggets
+2. Evaluate Topic Models: Latent Dirichlet Allocation (LDA) | by Shashank
+Kapadia | Towards Data Science.
+3. Agglomerative Clustering and Dendrograms — Explained | by Satyam Kumar
+| Towards Data Science.
+4. Understanding Topic Coherence Measures | by João Pedro | Towards Data
+Science
+5. Hierarchical Clustering: Agglomerative and Divisive — Explained |by Satyam
+Kumar| Towards Data Science|
+
 ## 📋 Execution Instruction
 The given IPython Notebook can be either downloaded to be run locally on Jupyter Notebook or on Google Colab via browser.
 
 ## 📜 Credits
-Verified by Almabetter
+* Project done by Mahin Arvind Chanthira Sekaran
+* Verified by Almabetter
 
 ## ☎ Contact
 
